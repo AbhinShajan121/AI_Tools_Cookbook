@@ -36,5 +36,5 @@ Training Your Model
 
 .. seealso::
 
-   Official TensorFlow Docs: https://www.tensorflow.org/
-   TensorFlow GitHub: https://github.com/tensorflow/tensorflow
+   TensorFlow Homepage: https://www.tensorflow.org/
+   TensorFlow Tutorials: https://www.tensorflow.org/tutorials

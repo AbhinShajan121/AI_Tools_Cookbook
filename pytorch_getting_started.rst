@@ -51,6 +51,5 @@ Further Resources
 -----------------
 .. seealso::
 
--  TensorFlow Homepage: https://www.tensorflow.org/
-
-- `PyTorch Official Documentation <https://pytorch.org/docs/stable/index.html>`_
+   PyTorch Homepage: https://pytorch.org/
+   PyTorch Documentation: https://pytorch.org/docs/stable/index.html
