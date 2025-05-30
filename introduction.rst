@@ -12,7 +12,7 @@ Structure
 - The source files are written in reStructuredText (.rst) format.
 - The main entry point is `index.rst`.
 - Additional chapters and recipes are individual `.rst` files linked through the table of contents.
-code 
+
 Building the Documentation
 --------------------------
 
