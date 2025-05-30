@@ -33,4 +33,6 @@ Example: Using Scikit-learn
 Further Resources
 -----------------
 
-- `Scikit-learn Model Evaluation <https://scikit-learn.org/stable/modules/model_evaluation.html>`_
+.. seealso::
+
+Scikit-learn Model Evaluation <https://scikit-learn.org/stable/modules/model_evaluation.html>

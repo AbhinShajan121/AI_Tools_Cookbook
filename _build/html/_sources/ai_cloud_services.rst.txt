@@ -36,8 +36,9 @@ Example: Using OpenAI API
 
 Further Resources
 -----------------
+.. seealso::
 
-- `Google Cloud AI <https://cloud.google.com/products/ai>`_
-- `Microsoft Azure Cognitive Services <https://azure.microsoft.com/services/cognitive-services/>`_
-- `Amazon AI Services <https://aws.amazon.com/machine-learning/>`_
-- `OpenAI API <https://openai.com/api/>`_
+Google Cloud AI <https://cloud.google.com/products/ai>
+Microsoft Azure Cognitive Services <https://azure.microsoft.com/services/cognitive-services/>
+Amazon AI Services <https://aws.amazon.com/machine-learning/>
+OpenAI API <https://openai.com/api/>
