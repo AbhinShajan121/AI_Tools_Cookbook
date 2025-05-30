@@ -35,4 +35,4 @@ Further Resources
 
 .. seealso::
 
-Scikit-learn Model Evaluation <https://scikit-learn.org/stable/modules/model_evaluation.html>
+  Scikit-learn Model Evaluation <https://scikit-learn.org/stable/modules/model_evaluation.html>

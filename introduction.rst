@@ -51,6 +51,6 @@ If you want to contribute to this cookbook:
 Resources
 ---------
 .. seealso::
-   
-Sphinx Documentation <https://www.sphinx-doc.org/> – Learn more about Sphinx and reStructuredText.
-reStructuredText Primer <https://docutils.sourceforge.io/rst.html> – Quick guide to writing `.rst` files.
+
+  Sphinx Documentation <https://www.sphinx-doc.org/> – Learn more about Sphinx and reStructuredText.
+  reStructuredText Primer <https://docutils.sourceforge.io/rst.html> – Quick guide to writing `.rst` files.

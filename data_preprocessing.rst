@@ -30,6 +30,6 @@ Example: Using Pandas and Scikit-learn
 Further Resources
 -----------------
 .. seealso::
-   
-Pandas Documentation <https://pandas.pydata.org/docs/>
-Scikit-learn Preprocessing <https://scikit-learn.org/stable/modules/preprocessing.html>
+
+  Pandas Documentation <https://pandas.pydata.org/docs/>
+  Scikit-learn Preprocessing <https://scikit-learn.org/stable/modules/preprocessing.html>

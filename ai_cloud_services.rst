@@ -38,7 +38,7 @@ Further Resources
 -----------------
 .. seealso::
 
-Google Cloud AI <https://cloud.google.com/products/ai>
-Microsoft Azure Cognitive Services <https://azure.microsoft.com/services/cognitive-services/>
-Amazon AI Services <https://aws.amazon.com/machine-learning/>
-OpenAI API <https://openai.com/api/>
+  Google Cloud AI <https://cloud.google.com/products/ai>
+  Microsoft Azure Cognitive Services <https://azure.microsoft.com/services/cognitive-services/>
+  Amazon AI Services <https://aws.amazon.com/machine-learning/>
+  OpenAI API <https://openai.com/api/>
