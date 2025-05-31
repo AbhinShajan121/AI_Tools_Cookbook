@@ -83,7 +83,7 @@ Troubleshooting
 - **No devices found**:
   1. Check system audio settings
   2. Try specifying device explicitly:
-     .. code-block:: python
+    .. code-block:: python
 
         sd.default.device = 1  # Use device index from query_devices()
 
