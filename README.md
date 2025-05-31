@@ -8,16 +8,16 @@ Contents
 --------
   Getting Started
   ---------------
-  introduction.rst: An introduction to the project and its goals.
-  index.rst: An index of the available topics for easy navigation.
+  introduction.rst: An introduction to the project and its goals.  
+  index.rst: An index of the available topics for easy navigation.  
 
   Core Topics
   -----------
-  data_preprocessing.rst: Techniques and best practices for preprocessing data for machine learning.
-  model_evaluation.rst: Methods for evaluating the performance of machine learning models.
-  tensorflow_basics.rst: A guide to getting started with TensorFlow.
-  pytorch_getting_started.rst: An introduction to Pytorch, covering basic concepts and usage.
-  ai_cloud_services.rst: Overview of various AI cloud services and their functionalities.
+  data_preprocessing.rst: Techniques and best practices for preprocessing data for machine learning.  
+  model_evaluation.rst: Methods for evaluating the performance of machine learning models.  
+  tensorflow_basics.rst: A guide to getting started with TensorFlow.  
+  pytorch_getting_started.rst: An introduction to Pytorch, covering basic concepts and usage.  
+  ai_cloud_services.rst: Overview of various AI cloud services and their functionalities.  
 
 Getting Started
 ---------------
