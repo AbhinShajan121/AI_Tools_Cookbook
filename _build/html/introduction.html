@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+
+<html lang="en" data-content_root="./">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Documentation Guide &#8212; AI TOOLS COOKBOOK  documentation</title>
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=5ecbeea2" />
+    <link rel="stylesheet" type="text/css" href="_static/basic.css?v=b08954a9" />
+    <link rel="stylesheet" type="text/css" href="_static/alabaster.css?v=27fed22d" />
+    <script src="_static/documentation_options.js?v=5929fcd5"></script>
+    <script src="_static/doctools.js?v=9bcbadda"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Getting Started with TensorFlow" href="tensorflow_basics.html" />
+    <link rel="prev" title="AI Tools Cookbook" href="index.html" />
+   
+  <link rel="stylesheet" href="_static/custom.css" type="text/css" />
+  
+
+  
+  
+
+  </head><body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          
+
+          <div class="body" role="main">
+            
+  <section id="documentation-guide">
+<h1>Documentation Guide<a class="headerlink" href="#documentation-guide" title="Link to this heading">¶</a></h1>
+<section id="overview">
+<h2>Overview<a class="headerlink" href="#overview" title="Link to this heading">¶</a></h2>
+<p>This section explains how the AI Tools Cookbook documentation is organized and how you can build and contribute to it.</p>
+</section>
+<section id="structure">
+<h2>Structure<a class="headerlink" href="#structure" title="Link to this heading">¶</a></h2>
+<ul class="simple">
+<li><p>The source files are written in reStructuredText (.rst) format.</p></li>
+<li><p>The main entry point is <cite>index.rst</cite>.</p></li>
+<li><p>Additional chapters and recipes are individual <cite>.rst</cite> files linked through the table of contents.</p></li>
+</ul>
+</section>
+<section id="building-the-documentation">
+<h2>Building the Documentation<a class="headerlink" href="#building-the-documentation" title="Link to this heading">¶</a></h2>
+<p>To generate the HTML documentation, run the following command in the project root directory:</p>
+<div class="highlight-shell notranslate"><div class="highlight"><pre><span></span>make<span class="w"> </span>html
+</pre></div>
+</div>
+<p>On Windows, you can also run:</p>
+<div class="highlight-shell notranslate"><div class="highlight"><pre><span></span>.<span class="se">\m</span>ake.bat<span class="w"> </span>html
+</pre></div>
+</div>
+<p>The HTML files will be generated in the <cite>_build/html</cite> directory. Open <cite>index.html</cite> there to view the documentation in your web browser.</p>
+</section>
+<section id="editing-the-documentation">
+<h2>Editing the Documentation<a class="headerlink" href="#editing-the-documentation" title="Link to this heading">¶</a></h2>
+<ul class="simple">
+<li><p>Edit the <cite>.rst</cite> files inside the project folder to update or add content.</p></li>
+<li><p>Use proper reStructuredText syntax for formatting.</p></li>
+<li><p>To add a new chapter or recipe, create a new <cite>.rst</cite> file and add it to the <cite>.. toctree::</cite> directive in <cite>index.rst</cite>.</p></li>
+</ul>
+</section>
+<section id="contributing">
+<h2>Contributing<a class="headerlink" href="#contributing" title="Link to this heading">¶</a></h2>
+<p>If you want to contribute to this cookbook:</p>
+<ol class="arabic simple">
+<li><p>Fork the repository.</p></li>
+<li><p>Create a new branch for your changes.</p></li>
+<li><p>Add or update <cite>.rst</cite> files.</p></li>
+<li><p>Build the documentation locally to check formatting.</p></li>
+<li><p>Submit a pull request with your changes.</p></li>
+</ol>
+</section>
+<section id="resources">
+<h2>Resources<a class="headerlink" href="#resources" title="Link to this heading">¶</a></h2>
+<div class="admonition seealso">
+<p class="admonition-title">See also</p>
+<p>Sphinx Documentation &lt;<a class="reference external" href="https://www.sphinx-doc.org/">https://www.sphinx-doc.org/</a>&gt; – Learn more about Sphinx and reStructuredText.
+reStructuredText Primer &lt;<a class="reference external" href="https://docutils.sourceforge.io/rst.html">https://docutils.sourceforge.io/rst.html</a>&gt; – Quick guide to writing <cite>.rst</cite> files.</p>
+</div>
+</section>
+</section>
+
+
+          </div>
+          
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="Main">
+        <div class="sphinxsidebarwrapper">
+<h1 class="logo"><a href="index.html">AI TOOLS COOKBOOK</a></h1>
+
+
+
+
+
+
+
+
+
+<search id="searchbox" style="display: none" role="search">
+    <div class="searchformwrapper">
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" placeholder="Search"/>
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</search>
+<script>document.getElementById('searchbox').style.display = "block"</script><h3>Navigation</h3>
+<p class="caption" role="heading"><span class="caption-text">Contents:</span></p>
+<ul class="current">
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Documentation Guide</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#overview">Overview</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#structure">Structure</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#building-the-documentation">Building the Documentation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#editing-the-documentation">Editing the Documentation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#contributing">Contributing</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#resources">Resources</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="tensorflow_basics.html">Getting Started with TensorFlow</a></li>
+<li class="toctree-l1"><a class="reference internal" href="pytorch_getting_started.html">Getting Started with PyTorch</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ai_cloud_services.html">Using AI Cloud Services</a></li>
+<li class="toctree-l1"><a class="reference internal" href="data_preprocessing.html">Data Preprocessing for AI</a></li>
+<li class="toctree-l1"><a class="reference internal" href="model_evaluation.html">Model Evaluation and Tuning</a></li>
+<li class="toctree-l1"><a class="reference internal" href="AudioProcessing.html">Real-Time Audio Processing with sounddevice</a></li>
+<li class="toctree-l1"><a class="reference internal" href="audio_file_handling.html">Audio File Handling with soundfile</a></li>
+<li class="toctree-l1"><a class="reference internal" href="speech_recognition.html">Speech Recognition with Python</a></li>
+<li class="toctree-l1"><a class="reference internal" href="transformers.html">NLP with Transformers</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ollama.html">Local AI with Ollama</a></li>
+</ul>
+
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="index.html">Documentation overview</a><ul>
+      <li>Previous: <a href="index.html" title="previous chapter">AI Tools Cookbook</a></li>
+      <li>Next: <a href="tensorflow_basics.html" title="next chapter">Getting Started with TensorFlow</a></li>
+  </ul></li>
+</ul>
+</div>
+
+
+
+
+
+
+
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &#169;2025, ABHIN.
+      
+      |
+      Powered by <a href="https://www.sphinx-doc.org/">Sphinx 8.2.3</a>
+      &amp; <a href="https://alabaster.readthedocs.io">Alabaster 1.0.0</a>
+      
+      |
+      <a href="_sources/introduction.rst.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>
