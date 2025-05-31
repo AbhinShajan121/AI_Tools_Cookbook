@@ -39,13 +39,15 @@ Step 1: Basic Inference
 Step 2: Custom Training
 ~~~~~~~~~~~~~~~~~~~~~~~
 1. Prepare dataset in YOLO format:
-    dataset/
-    ├── images/
-    │ ├── train/
-    │ └── val/
-    └── labels/
-    ├── train/
-    └── val/
+  .. code-block:: text
+
+   dataset/
+   ├── images/
+   │   ├── train/
+   │   └── val/
+   └── labels/
+       ├── train/
+       └── val/
 
 2. Training script:
 .. code-block:: python
@@ -124,6 +126,6 @@ Advanced Usage
 Further Resources
 -----------------
 .. seealso::
-- `Ultralytics Documentation <https://docs.ultralytics.com>`_
-- `YOLOv8 GitHub <https://github.com/ultralytics/ultralytics>`_
-- `Pretrained Models <https://github.com/ultralytics/assets/releases>`_
+  - `Ultralytics Documentation <https://docs.ultralytics.com>`_
+  - `YOLOv8 GitHub <https://github.com/ultralytics/ultralytics>`_
+  - `Pretrained Models <https://github.com/ultralytics/assets/releases>`_
