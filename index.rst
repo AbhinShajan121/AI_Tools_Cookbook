@@ -17,6 +17,9 @@ AI Tools Cookbook
    speech_recognition
    transformers
    ollama
+   illamacpp
+   gemma
+   yolov8
 
 Indices and tables
 ==================
