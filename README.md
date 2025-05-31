@@ -23,9 +23,9 @@ Getting Started
 ---------------
 To get started with this project, clone the repository and navigate to the directory:
 
-git clone https://github.com/AbhinShajan121/AI_Tools_Cookbook.git
-cd AI_Tools_Cookbook
-Open the index.rst file to explore the available tutorials and documentation.
+git clone https://github.com/AbhinShajan121/AI_Tools_Cookbook.git  
+cd AI_Tools_Cookbook  
+Open the index.rst file to explore the available tutorials and documentation.  
 
 Contribution
 ------------
